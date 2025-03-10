@@ -1,0 +1,18 @@
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: rgb(182, 56, 56);
+}
+
+.colorful-theme {
+  background-color: #d7a50f;
+  color: #0fa80f;
+}
+
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
