@@ -6,5 +6,5 @@ import App from './App'
 createRoot(document.getElementById('root')!).render(
   <div>
     <App />
-  </div>,
+  </div>
 )
